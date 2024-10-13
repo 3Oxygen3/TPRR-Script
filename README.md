@@ -38,13 +38,13 @@ To use the script, replace `KEY` with the correct key and run the following code
 ```lua
 --Replace KEY with the correct key
 getgenv().userInputKey = "KEY"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/3Oxygen3/TPRR-Tape-Farm/main/Farm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3Oxygen3/TPRR-Script/main/Farm.lua"))()
 ```
 ## Warning
 I am not liable for any bans or warnings that may result from the use of this script. Use it at your own risk.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/3Oxygen3/TPRR-Tape-Farm/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/3Oxygen3/TPRR-Script/blob/main/LICENSE) file for details.
 
 ## Contact
 For any questions or support, feel free to reach out in the Discord server.
