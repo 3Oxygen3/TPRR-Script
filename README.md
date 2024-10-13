@@ -1,7 +1,7 @@
 # TPRR Script
 
 ## Description
-A simplw script for [The Pizzeria Roleplay Remastered](https://www.roblox.com/games/373513488/FNAF-TPRR-INTO-THE-PIT). The script requires a valid key to function, which changes weekly.
+A simple script for [The Pizzeria Roleplay Remastered](https://www.roblox.com/games/373513488/FNAF-TPRR-INTO-THE-PIT). The script requires a valid key to function, which changes weekly.
 
 ## Features
 Coin Farm
