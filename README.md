@@ -5,9 +5,13 @@ A simple tape farm for [The Pizzeria Roleplay Remastered](https://www.roblox.com
 
 ## Executor Support
 JJSploit 🟢 [SCRIPT WAS TESTED USING THIS]
+
 Solara 🟢
+
 Wave 🟢
+
 Syn Z  🟢
+
 
 Others: Unknown but most likely
 
