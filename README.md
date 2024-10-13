@@ -23,11 +23,11 @@ To use the script, replace `KEY` with the correct key and run the following code
 getgenv().userInputKey = "KEY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3Oxygen3/TPRR-Tape-Farm/main/Farm.lua"))()
 ```
-##Warning
+## Warning
 I am not liable for any bans or warnings that may result from the use of this script. Use it at your own risk.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For any questions or support, feel free to reach out in the Discord server.
