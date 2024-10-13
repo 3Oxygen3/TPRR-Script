@@ -45,4 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 For any questions or support, feel free to reach out in the Discord server.
 
 ### Notes
-The script has been obfuscated using Moonsec V3
+The script is closed source and has been obfuscated using Moonsec V3
