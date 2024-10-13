@@ -1,7 +1,7 @@
 # Tape Farm for TPRR
 
 ## Description
-A simple tape farm for TPRR (https://www.roblox.com/games/373513488/FNAF-TPRR-INTO-THE-PIT). The script requires a valid key to function, which changes weekly.
+A simple tape farm for [The Pizzeria Roleplay Remastered](https://www.roblox.com/games/373513488/FNAF-TPRR-INTO-THE-PIT). The script requires a valid key to function, which changes weekly.
 
 ## Key System
 To use this script, you must obtain a key that will grant you access. The key is updated weekly, so you’ll need to join our Discord server to get the latest key.
